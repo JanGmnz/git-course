@@ -13,4 +13,10 @@ RHCP
 
 Don't forget the **git-status** to keep track of the current state 
 
-##
+## Branching
+
+We use dev branch to work with other
+developers without break the "main" code.
+
+**git checkout -b dev**
+
